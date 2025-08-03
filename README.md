@@ -1,12 +1,12 @@
 
-# Hi there, I'm Adam 👋
+<h2 align="center">Hi there, I'm Adam 👋</h2>
 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Caffeine+Addict+☕;Building+Digital+Experiences" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 I'm a passionate Full Stack Developer with over 2 years of experience in building web applications. I love creating beautiful, functional, and user-friendly digital experiences. My journey in tech started with a curiosity about how things work on the internet, and it has evolved into a career where I get to solve complex problems and create innovative solutions daily.
 
@@ -18,14 +18,13 @@ I'm a passionate Full Stack Developer with over 2 years of experience in buildin
   
 </div>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adampryono&theme=tokyonight&hide_border=true&background=1a1b27&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" />
 </div>
 
-
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stacks</h2>
 
 <div align="center">
 
