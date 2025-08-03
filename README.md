@@ -8,7 +8,10 @@
 
 <h2 align="center">🚀 About Me</h2>
 
+
+<p align="center">
 I'm a passionate Full Stack Developer with over 2 years of experience in building web applications. I love creating beautiful, functional, and user-friendly digital experiences. My journey in tech started with a curiosity about how things work on the internet, and it has evolved into a career where I get to solve complex problems and create innovative solutions daily.
+</p>
 
 <div align="center">
   
