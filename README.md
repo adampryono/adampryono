@@ -1,4 +1,7 @@
-# Hi there, I'm Adam 👋
+
+<div align="center">
+  # Hi there, I'm Adam 👋
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Caffeine+Addict+☕;Building+Digital+Experiences" alt="Typing SVG" />
