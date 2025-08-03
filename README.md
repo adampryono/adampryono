@@ -18,13 +18,8 @@ I'm a passionate Full Stack Developer with over 2 years of experience in buildin
 
 ## 📊 GitHub Stats
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adampryono&theme=tokyonight&hide_border=true&background=1a1b27&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" />
-</div>
-
-<!-- Alternative Stats Card with Private Commits -->
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adampryono&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=60A5FA&icon_color=60A5FA&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adampryono&theme=tokyonight&hide_border=true&background=1a1b27&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" />
 </div>
 
 
