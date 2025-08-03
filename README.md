@@ -57,12 +57,6 @@ I'm a passionate Full Stack Developer with over 2 years of experience in buildin
 
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adampryono&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=60A5FA&line=60A5FA&point=60A5FA" alt="Contribution Graph" />
-</div>
-
 ---
 
 <div align="center">
